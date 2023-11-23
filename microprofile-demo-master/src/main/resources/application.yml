@@ -1,0 +1,5 @@
+quarkus.smallrye-health.ui.enable: true
+ifrs:
+  pw2: Programação para Web II
+
+
